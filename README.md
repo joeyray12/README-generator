@@ -19,7 +19,7 @@ This can be used to create a readme for any project, the questions that are prov
 ## Languages & Dependencies
 Inquirer, Node.js
 ## How to Use This Application:
-JavaScript, Node.js
+JavaScript, Node.js. https://youtu.be/rh0mnnQ31BQ
 
 ## Questions
 Please send your questions [here](mailto:joeyraymond12497@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/joeyray12](https://github.com/joeyray12).
